@@ -51,33 +51,33 @@ Hi! I'm **Aanchal Jha**, a Computer Science undergraduate passionate about backe
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🍳 CookPad
+###  CookPad
 A recipe-sharing web application featuring authentication, recipe management and favourites.
 
 **Tech Stack:** Django · Django REST Framework · React · PostgreSQL
 
 [View Repository →](https://github.com/AanchalJha05/cookpad-deploy)
 
-### 🤖 DocuMind
+###  DocuMind
 A PDF-based AI chatbot that uses Retrieval-Augmented Generation to answer questions from uploaded documents.
 
 **Tech Stack:** FastAPI · React · Groq · Hugging Face · ChromaDB
 
 [View Repository →](https://github.com/AanchalJha05/ChatBot)
 
-### 🛒 Nexora
+###  Nexora
 An e-commerce application built with Django, Django REST Framework, React and PostgreSQL.
 
-### ☕ DSA in Java
+###  DSA in Java
 A collection of Data Structures and Algorithms implementations and coding practice.
 
 [View Repository →](https://github.com/AanchalJha05/Dsa-Java)
 
 ---
 
-## 🐍 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AanchalJha05/AanchalJha05/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
