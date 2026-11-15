@@ -60,20 +60,6 @@ Data Structures and Algorithms implementations and coding practice.
 
 [View Repository](https://github.com/AanchalJha05/Dsa-Java)
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AanchalJha05&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AanchalJha05&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AanchalJha05&theme=radical&no-frame=true&column=4" />
-</p>
-
-
 ## 🐍 Contribution Graph
 
 <p align="center">
