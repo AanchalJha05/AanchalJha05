@@ -1,12 +1,14 @@
 # 🎀 Hey, I'm Aanchal Jha!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Python+Backend+Developer;Django+%26+FastAPI+Developer;Exploring+Generative+AI;Building+REST+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=23&pause=1200&color=FF69B4&center=true&vCenter=true&width=750&lines=Turning+Ideas+Into+Applications;Crafting+the+Logic+Behind+Apps;Where+Code+Meets+Creativity;Exploring+Beyond+The+Code;Learning+Today%2C+Building+Tomorrow" alt="Typing Animation" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AanchalJha05&label=PROFILE+VIEWS&color=FF69B4&style=for-the-badge" />
 </p>
+
+
 
 ---
 
