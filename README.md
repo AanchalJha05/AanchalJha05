@@ -60,7 +60,7 @@ Data Structures and Algorithms implementations and coding practice.
 
 [View Repository](https://github.com/AanchalJha05/Dsa-Java)
 
-## 🐍 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AanchalJha05/AanchalJha05/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
