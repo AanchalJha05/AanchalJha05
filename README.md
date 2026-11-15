@@ -73,6 +73,7 @@ Data Structures and Algorithms implementations and coding practice.
   <img src="https://github-profile-trophy.vercel.app/?username=AanchalJha05&theme=radical&no-frame=true&column=4" />
 </p>
 
+
 ## 🐍 Contribution Graph
 
 <p align="center">
@@ -83,9 +84,4 @@ Data Structures and Algorithms implementations and coding practice.
 
 <p align="center">
   <b>✨ Building my skills, one project at a time.</b>
-</p>
-<h2 align="center">🐍 My GitHub Contributions</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AanchalJha05/AanchalJha05/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
