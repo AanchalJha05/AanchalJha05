@@ -14,11 +14,11 @@
 
 I'm a Computer Science undergraduate passionate about backend development and building practical applications.
 
-- 🔭 Building backend applications using Django and FastAPI.
-- 🌱 Exploring Generative AI, LLMs and RAG.
-- 💾 Working with relational databases and REST APIs.
-- 🧩 Practicing Data Structures & Algorithms in Java.
-- 🎯 Aspiring Python Backend Developer.
+-  Building backend applications using Django and FastAPI.
+-  Exploring Generative AI, LLMs and RAG.
+-  Working with relational databases and REST APIs.
+-  Practicing Data Structures & Algorithms in Java.
+-  Aspiring Python Backend Developer.
 
 ## 💻 Tech Stack
 
@@ -36,26 +36,26 @@ I'm a Computer Science undergraduate passionate about backend development and bu
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🍳 CookPad
+###  CookPad
 Recipe-sharing web application with authentication, recipe management and favourites.
 
 **Tech:** Django, DRF, React, PostgreSQL
 
 [View Repository](https://github.com/AanchalJha05/cookpad-deploy)
 
-### 🤖 DocuMind
+###  DocuMind
 PDF-based AI chatbot that uses Retrieval-Augmented Generation to answer questions from uploaded documents.
 
 **Tech:** FastAPI, React, Groq, Hugging Face, ChromaDB
 
 [View Repository](https://github.com/AanchalJha05/ChatBot)
 
-### 🛒 Nexora
+###  Nexora
 E-commerce application built using Django, Django REST Framework, React and PostgreSQL.
 
-### ☕ DSA in Java
+###  DSA in Java
 Data Structures and Algorithms implementations and coding practice.
 
 [View Repository](https://github.com/AanchalJha05/Dsa-Java)
