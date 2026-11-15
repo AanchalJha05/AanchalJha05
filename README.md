@@ -59,7 +59,7 @@ Hi! I'm **Aanchal Jha**, a Computer Science undergraduate passionate about backe
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🍳 CookPad</h3>
+<h3 align="center"> CookPad</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/FULL_STACK_PROJECT-FF69B4?style=flat-square" />
 </p>
@@ -92,7 +92,7 @@ Personalized dashboard
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🤖 DocuMind</h3>
+<h3 align="center"> DocuMind</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/GENAI_PROJECT-FF69B4?style=flat-square" />
 </p>
@@ -125,7 +125,7 @@ Context-aware AI responses
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🛒 Nexora</h3>
+<h3 align="center"> Nexora</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/WEB_APPLICATION-FF69B4?style=flat-square" />
 </p>
@@ -153,7 +153,7 @@ React-based interface
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">☕ DSA in Java</h3>
+<h3 align="center"> DSA in Java</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/CODING_JOURNEY-FF69B4?style=flat-square" />
 </p>
