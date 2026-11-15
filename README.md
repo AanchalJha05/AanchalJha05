@@ -51,31 +51,142 @@ Hi! I'm **Aanchal Jha**, a Computer Science undergraduate passionate about backe
 
 ---
 
-##  Featured Projects
+<p align="center">
+  <i>A little showcase of things I've been building lately.</i>
+</p>
 
-###  CookPad
-A recipe-sharing web application featuring authentication, recipe management and favourites.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tech Stack:** Django · Django REST Framework · React · PostgreSQL
+<h3 align="center">🍳 CookPad</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/FULL_STACK_PROJECT-FF69B4?style=flat-square" />
+</p>
 
-[View Repository →](https://github.com/AanchalJha05/cookpad-deploy)
+A recipe-sharing platform where users can explore, create, manage and favourite recipes.
 
-###  DocuMind
-A PDF-based AI chatbot that uses Retrieval-Augmented Generation to answer questions from uploaded documents.
+✨ Highlights
 
-**Tech Stack:** FastAPI · React · Groq · Hugging Face · ChromaDB
+User authentication with JWT
 
-[View Repository →](https://github.com/AanchalJha05/ChatBot)
+Recipe CRUD operations
 
-###  Nexora
-An e-commerce application built with Django, Django REST Framework, React and PostgreSQL.
+Favourite recipes
 
-###  DSA in Java
-A collection of Data Structures and Algorithms implementations and coding practice.
+Personalized dashboard
 
-[View Repository →](https://github.com/AanchalJha05/Dsa-Java)
+⚙️ Built With
 
----
+<img src="https://skillicons.dev/icons?i=django,postgres,react&theme=dark" />
+
+<p align="center">
+  <a href="https://github.com/AanchalJha05/cookpad-deploy">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://cookpad-frontend.onrender.com">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-DB7093?style=for-the-badge" />
+  </a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 DocuMind</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/GENAI_PROJECT-FF69B4?style=flat-square" />
+</p>
+
+An AI-powered document assistant that answers questions based on uploaded PDF documents.
+
+✨ Highlights
+
+PDF document processing
+
+Retrieval-Augmented Generation
+
+Semantic search using embeddings
+
+Context-aware AI responses
+
+⚙️ Built With
+
+<img src="https://skillicons.dev/icons?i=fastapi,react&theme=dark" />
+
+<p align="center">
+  <a href="https://github.com/AanchalJha05/ChatBot">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🛒 Nexora</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/WEB_APPLICATION-FF69B4?style=flat-square" />
+</p>
+
+An e-commerce application designed to provide a smooth online shopping experience.
+
+✨ Highlights
+
+Product management
+
+Backend REST APIs
+
+Database integration
+
+React-based interface
+
+⚙️ Built With
+
+<img src="https://skillicons.dev/icons?i=django,postgres,react,tailwind&theme=dark" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IN_DEVELOPMENT-DB7093?style=for-the-badge" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">☕ DSA in Java</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/CODING_JOURNEY-FF69B4?style=flat-square" />
+</p>
+
+A collection of Data Structures and Algorithms implementations and problem-solving practice in Java.
+
+✨ Highlights
+
+Arrays and Strings
+
+Linked Lists and Stacks
+
+Recursion and Backtracking
+
+Searching and Sorting
+
+⚙️ Built With
+
+<img src="https://skillicons.dev/icons?i=java&theme=dark" />
+
+<p align="center">
+  <a href="https://github.com/AanchalJha05/Dsa-Java">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <b>♡ More projects, more experiments, more learning.</b>
+</p>
 
 ##  Contribution Graph
 
