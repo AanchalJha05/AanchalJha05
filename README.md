@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Aanchal Jha!
+#  Hey, I'm Aanchal Jha!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Python+Backend+Developer;Django+%7C+FastAPI+Developer;Exploring+Generative+AI;Building+REST+APIs" alt="Typing SVG" />
