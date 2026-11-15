@@ -1,66 +1,81 @@
-#  Hey, I'm Aanchal Jha!
+# 🎀 Hey, I'm Aanchal Jha!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Python+Backend+Developer;Django+%7C+FastAPI+Developer;Exploring+Generative+AI;Building+REST+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Python+Backend+Developer;Django+%26+FastAPI+Developer;Exploring+Generative+AI;Building+REST+APIs" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AanchalJha05&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AanchalJha05&label=PROFILE+VIEWS&color=FF69B4&style=for-the-badge" />
 </p>
 
 ---
 
-## 💫 About Me
+## 💗 About Me
 
-I'm a Computer Science undergraduate passionate about backend development and building practical applications.
+Hi! I'm **Aanchal Jha**, a Computer Science undergraduate passionate about backend development and building practical applications.
 
--  Building backend applications using Django and FastAPI.
--  Exploring Generative AI, LLMs and RAG.
--  Working with relational databases and REST APIs.
--  Practicing Data Structures & Algorithms in Java.
--  Aspiring Python Backend Developer.
+- 🌸 Currently developing applications using Django and FastAPI.
+- 💻 Exploring Generative AI, LLMs and RAG.
+- 🗄️ Working with PostgreSQL, MySQL and SQLite.
+- 🧩 Practicing Data Structures & Algorithms in Java.
+- 🎯 Aspiring Python Backend Developer.
 
-## 💻 Tech Stack
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,django,fastapi,react,tailwind,postgres,mysql,sqlite,git,github,postman,vscode&theme=dark" />
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" />
 </p>
 
-**GenAI & Backend Tools**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/ChromaDB-6C47FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+### Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,react,tailwind&theme=dark" />
 </p>
 
-##  Featured Projects
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,git,github,postman,vscode&theme=dark" />
+</p>
 
-###  CookPad
-Recipe-sharing web application with authentication, recipe management and favourites.
+### Generative AI
+<p>
+  <img src="https://img.shields.io/badge/LangChain-FF69B4?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFB6C1?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/ChromaDB-E75480?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Groq-FF69B4?style=for-the-badge" />
+</p>
 
-**Tech:** Django, DRF, React, PostgreSQL
+---
 
-[View Repository](https://github.com/AanchalJha05/cookpad-deploy)
+## 🚀 Featured Projects
 
-###  DocuMind
-PDF-based AI chatbot that uses Retrieval-Augmented Generation to answer questions from uploaded documents.
+### 🍳 CookPad
+A recipe-sharing web application featuring authentication, recipe management and favourites.
 
-**Tech:** FastAPI, React, Groq, Hugging Face, ChromaDB
+**Tech Stack:** Django · Django REST Framework · React · PostgreSQL
 
-[View Repository](https://github.com/AanchalJha05/ChatBot)
+[View Repository →](https://github.com/AanchalJha05/cookpad-deploy)
 
-###  Nexora
-E-commerce application built using Django, Django REST Framework, React and PostgreSQL.
+### 🤖 DocuMind
+A PDF-based AI chatbot that uses Retrieval-Augmented Generation to answer questions from uploaded documents.
 
-###  DSA in Java
-Data Structures and Algorithms implementations and coding practice.
+**Tech Stack:** FastAPI · React · Groq · Hugging Face · ChromaDB
 
-[View Repository](https://github.com/AanchalJha05/Dsa-Java)
+[View Repository →](https://github.com/AanchalJha05/ChatBot)
 
-##  Contribution Graph
+### 🛒 Nexora
+An e-commerce application built with Django, Django REST Framework, React and PostgreSQL.
+
+### ☕ DSA in Java
+A collection of Data Structures and Algorithms implementations and coding practice.
+
+[View Repository →](https://github.com/AanchalJha05/Dsa-Java)
+
+---
+
+## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AanchalJha05/AanchalJha05/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
@@ -69,5 +84,9 @@ Data Structures and Algorithms implementations and coding practice.
 ---
 
 <p align="center">
-  <b>✨ Building my skills, one project at a time.</b>
+  <b>💗 Building my skills, one project at a time.</b>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile!</i> ♡
 </p>
