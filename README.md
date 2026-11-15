@@ -119,6 +119,7 @@ An AI-powered document assistant that uses RAG to answer questions based on uplo
 <tr>
 <td width="50%" valign="top">
 
+
 <h3 align="center"> Nexora</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/COMPLETED_PROJECT-FF69B4?style=flat-square" />
@@ -126,21 +127,30 @@ An AI-powered document assistant that uses RAG to answer questions based on uplo
 
 A full-stack e-commerce application built to provide an online shopping experience.
 
-✨ Highlights
+**✨ Highlights**
 - Django REST API backend
 - Product management
 - React-based frontend
 - PostgreSQL database integration
-⚙️ Built With
+
+**⚙️ Built With**
 
 <img src="https://skillicons.dev/icons?i=django,postgres,react,tailwind&theme=dark" />
+
+<p align="center">
+  <a href="YOUR_NEXORA_GITHUB_LINK">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
+
+
 <h3 align="center"> DSA in Java</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/CODING_JOURNEY-FF69B4?style=flat-square" />
+  <img src="https://img.shields.io/badge/DSA_JOURNEY-FF69B4?style=flat-square" />
 </p>
 
 A collection of Data Structures and Algorithms implementations and problem-solving practice in Java.
