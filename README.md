@@ -1,28 +1,86 @@
+# 👋 Hey, I'm Aanchal Jha!
 
-# 💫 About Me:
-Create a modern, visually attractive and professional GitHub Profile README for me.<br><br>**My Details:**<br>- Name: Aanchal Jha<br>- GitHub: AanchalJha05<br>- Role: Python Backend Developer<br>- Education: B.Tech Computer Science and Applied Mathematics student<br>- Location: Delhi, India<br><br>**Design Preferences:**<br>- Dark theme with purple/lavender accents.<br>- Clean, minimal, modern developer aesthetic.<br>- Professional appearance suitable for recruiters and internship applications.<br>- Well-organized sections with proper spacing.<br>- Use subtle animations and interactive-looking elements wherever GitHub supports them.<br>- Avoid excessive emojis, unnecessary badges, and clutter.<br><br>**Animations and Visual Elements:**<br>1. Animated typing effect with:<br>   - Python Backend Developer<br>   - Django & FastAPI Developer<br>   - Exploring Generative AI<br>   - Building REST APIs<br>2. Animated waving hand or coding GIF.<br>3. Technology icons using skillicons.dev.<br>4. GitHub contribution snake animation.<br>5. GitHub statistics cards.<br>6. Most-used programming languages card.<br>7. Profile visitor counter.<br><br>**Technical Skills:**<br>- Languages: Python, Java, SQL<br>- Backend: Django, Django REST Framework, FastAPI<br>- Databases: PostgreSQL, MySQL, SQLite<br>- Tools: Git, GitHub, Postman, Redis<br>- GenAI: LangChain, LLM APIs, RAG, ChromaDB, Hugging Face<br>- Frontend familiarity: React, JavaScript<br><br>**Featured Projects:**<br><br>1. CookPad<br>   - Django, Django REST Framework, React, PostgreSQL<br>   - Recipe-sharing application with authentication, recipe management and favourites.<br>   - GitHub: https://github.com/AanchalJha05/cookpad-deploy<br><br>2. DocuMind<br>   - FastAPI, React, Groq, Hugging Face, ChromaDB<br>   - PDF-based AI chatbot using Retrieval-Augmented Generation.<br>   - GitHub: https://github.com/AanchalJha05/ChatBot<br><br>3. Nexora<br>   - Django, DRF, React, PostgreSQL<br>   - E-commerce web application.<br><br>4. DSA in Java<br>   - Data Structures and Algorithms implementations and practice problems.<br>   - GitHub: https://github.com/AanchalJha05/Dsa-Java<br><br>**Sections to Include:**<br>- Hero section with animated introduction.<br>- About Me.<br>- Technical Skills.<br>- Featured Projects with repository links.<br>- GitHub Statistics.<br>- Most Used Languages.<br>- Contribution Graph and Snake Animation.<br>- Connect With Me.<br><br>**Important Requirements:**<br>- Generate complete GitHub README.md Markdown.<br>- Use working image URLs and valid SVG services.<br>- Use actual GitHub repository links.<br>- Make the README responsive and compatible with GitHub Markdown.<br>- Do not use JavaScript or CSS hover effects that GitHub does not support.<br>- Keep the profile focused on Python Backend Development rather than Data Science or Machine Learning.<br>- Do not invent achievements, certifications, or contribution statistics.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Python+Backend+Developer;Django+%7C+FastAPI+Developer;Exploring+Generative+AI;Building+REST+APIs" alt="Typing SVG" />
+</p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aanchal Kumari) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Aanchal Jha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aanchaljha207@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AanchalJha05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=AanchalJha05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AanchalJha05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AanchalJha05&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AanchalJha05&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AanchalJha05&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=AanchalJha05&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+I'm a Computer Science undergraduate passionate about backend development and building practical applications.
+
+- 🔭 Building backend applications using Django and FastAPI.
+- 🌱 Exploring Generative AI, LLMs and RAG.
+- 💾 Working with relational databases and REST APIs.
+- 🧩 Practicing Data Structures & Algorithms in Java.
+- 🎯 Aspiring Python Backend Developer.
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,django,fastapi,react,tailwind,postgres,mysql,sqlite,git,github,postman,vscode&theme=dark" />
+</p>
+
+**GenAI & Backend Tools**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/ChromaDB-6C47FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+## 🚀 Featured Projects
+
+### 🍳 CookPad
+Recipe-sharing web application with authentication, recipe management and favourites.
+
+**Tech:** Django, DRF, React, PostgreSQL
+
+[View Repository](https://github.com/AanchalJha05/cookpad-deploy)
+
+### 🤖 DocuMind
+PDF-based AI chatbot that uses Retrieval-Augmented Generation to answer questions from uploaded documents.
+
+**Tech:** FastAPI, React, Groq, Hugging Face, ChromaDB
+
+[View Repository](https://github.com/AanchalJha05/ChatBot)
+
+### 🛒 Nexora
+E-commerce application built using Django, Django REST Framework, React and PostgreSQL.
+
+### ☕ DSA in Java
+Data Structures and Algorithms implementations and coding practice.
+
+[View Repository](https://github.com/AanchalJha05/Dsa-Java)
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AanchalJha05&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AanchalJha05&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AanchalJha05&theme=radical&no-frame=true&column=4" />
+</p>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AanchalJha05/AanchalJha05/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+<p align="center">
+  <b>✨ Building my skills, one project at a time.</b>
+</p>
